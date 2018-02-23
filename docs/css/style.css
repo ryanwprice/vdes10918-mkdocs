@@ -1,0 +1,81 @@
+
+body {
+    background-image:none;
+}
+
+body{
+  font-size:20px;
+  line-height:1.4em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color:#333;
+}
+
+@media screen and (max-width: 728px) {
+		body{
+			font-size:16px;
+		}
+	}
+
+@media screen and (max-width: 320px) {
+		body{
+			font-size:12px;
+		}
+	}
+
+.navbar {
+    font-family: Helvetica, sans-serif;
+}
+
+div[role=main] h1, div[role=main] h2, div[role=main] h3, div[role=main] h4{
+  color: #d71920;
+  font-family: Helvetica, sans-serif;
+}
+
+div[role=main] h1{
+  font: normal bold 2em Helvetica, sans-serif;
+  text-transform: uppercase;
+  margin:1.5em 0;
+}
+
+
+div[role=main] h2{
+  font-size:1.5em;
+	background-repeat: no-repeat;
+	background-position:center left;
+	margin:1.4em 0;
+}
+
+
+
+
+div[role=main] p{
+  margin-bottom:1em;
+}
+
+
+
+div[role=main] p a{
+	color:#d71920; /*#999*/
+	text-decoration:none;
+}
+
+div[role=main] p a:hover{
+	border-bottom: 1px dashed #d71920;
+}
+  
+div[role=main] a{
+  color:#d71920;
+  text-decoration:none;
+}
+
+div[role=main] a:hover{
+  color:#333;
+}
+
+div[role=main] a:visited{
+  text-decoration: line-through;
+} 
+
+.navbar-nav>li>a[rel=prev], .navbar-nav>li>a[rel=next], footer{
+    display: none;
+}
