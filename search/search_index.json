@@ -76,167 +76,167 @@
             "title": "Learning Outcomes"
         }, 
         {
-            "location": "/week01/readme/", 
+            "location": "/week01/", 
             "text": "Week 01\n\n\nTopics\n\n\n\n\nWhat is Javascript?\n\n\nVariables\n\n\nIf statements\n\n\nDate objects\n\n\n\n\nReading\n\n\n\n\nChapter 1: Getting Setup \n\n\nChapter 2: Understanding Data Types \n Variables (stop at Arrays)\n\n\nChapter 3: Conditional Statements \n if/else Statements\n\n\n\n\nResources\n\n\n\n\nA Short History of JavaScript\n\n\nStandard Built-in Objects: Date\n \n\n\nIf...else\n\n\nWhat is the DOM?\n\n\n\n\nLectures\n\n\n\n\nWeek 1 Lecture\n\n\n\n\nLessons\n\n\n\n\nStarter HTML\n / \n(finished code)(week01-finished.zip)", 
             "title": "Week 1"
         }, 
         {
-            "location": "/week01/readme/#week-01", 
+            "location": "/week01/#week-01", 
             "text": "", 
             "title": "Week 01"
         }, 
         {
-            "location": "/week01/readme/#topics", 
+            "location": "/week01/#topics", 
             "text": "What is Javascript?  Variables  If statements  Date objects", 
             "title": "Topics"
         }, 
         {
-            "location": "/week01/readme/#reading", 
+            "location": "/week01/#reading", 
             "text": "Chapter 1: Getting Setup   Chapter 2: Understanding Data Types   Variables (stop at Arrays)  Chapter 3: Conditional Statements   if/else Statements", 
             "title": "Reading"
         }, 
         {
-            "location": "/week01/readme/#resources", 
+            "location": "/week01/#resources", 
             "text": "A Short History of JavaScript  Standard Built-in Objects: Date    If...else  What is the DOM?", 
             "title": "Resources"
         }, 
         {
-            "location": "/week01/readme/#lectures", 
+            "location": "/week01/#lectures", 
             "text": "Week 1 Lecture", 
             "title": "Lectures"
         }, 
         {
-            "location": "/week01/readme/#lessons", 
+            "location": "/week01/#lessons", 
             "text": "Starter HTML  /  (finished code)(week01-finished.zip)", 
             "title": "Lessons"
         }, 
         {
-            "location": "/week02/readme/", 
+            "location": "/week02/", 
             "text": "Week 02\n\n\nTopics\n\n\n\n\nConducting an Ethnographic study of mobile users\n\n\nAffordances \n Usability\n\n\nAccessing \n Adding content to the DOM\n\n\nRandom \n Math\n\n\n\n\nReading\n\n\n\n\nChapter 2: Understanding Data Types (stop at Arrays)\n\n\nChapter 3: Comparison Operators (stop at Logical Operators)\n\n\n\n\nResources\n\n\n\n\nMath.random()\n\n\nArithmetic operators\n \n\n\nThe Design of Everyday Things: Revised and Expanded Edition\n\n\nEar Trumpets and Bionic Superpowers\n\n\nVisual Design is not a Thing\n\n\n\n\nLectures\n\n\n\n\nAffordances\n\n\nEthnography\n\n\n\n\nLessons\n\n\n\n\nWeek 2 Starter\n / \nfinished code", 
             "title": "Week 2"
         }, 
         {
-            "location": "/week02/readme/#week-02", 
+            "location": "/week02/#week-02", 
             "text": "", 
             "title": "Week 02"
         }, 
         {
-            "location": "/week02/readme/#topics", 
+            "location": "/week02/#topics", 
             "text": "Conducting an Ethnographic study of mobile users  Affordances   Usability  Accessing   Adding content to the DOM  Random   Math", 
             "title": "Topics"
         }, 
         {
-            "location": "/week02/readme/#reading", 
+            "location": "/week02/#reading", 
             "text": "Chapter 2: Understanding Data Types (stop at Arrays)  Chapter 3: Comparison Operators (stop at Logical Operators)", 
             "title": "Reading"
         }, 
         {
-            "location": "/week02/readme/#resources", 
+            "location": "/week02/#resources", 
             "text": "Math.random()  Arithmetic operators    The Design of Everyday Things: Revised and Expanded Edition  Ear Trumpets and Bionic Superpowers  Visual Design is not a Thing", 
             "title": "Resources"
         }, 
         {
-            "location": "/week02/readme/#lectures", 
+            "location": "/week02/#lectures", 
             "text": "Affordances  Ethnography", 
             "title": "Lectures"
         }, 
         {
-            "location": "/week02/readme/#lessons", 
+            "location": "/week02/#lessons", 
             "text": "Week 2 Starter  /  finished code", 
             "title": "Lessons"
         }, 
         {
-            "location": "/week03/readme/", 
+            "location": "/week03/", 
             "text": "Week 03\n\n\nTopics\n\n\n\n\nForms \n Inputs\n\n\n\n\nReading\n\n\n\n\nnone\n\n\n\n\nResources\n\n\n\n\nStyling HTML forms\n\n\nThe Apple Store's Checkout Form Redesign\n\n\nDon't Make Me Think: How We Really Use the Web\n\n\n\n\nLectures\n\n\n\n\nDon't Make Me Think\n\n\nForms\n\n\n\n\nLessons\n\n\n\n\nForms\n\n\nslider.zip\n\n\nSkill Tester", 
             "title": "Week 3"
         }, 
         {
-            "location": "/week03/readme/#week-03", 
+            "location": "/week03/#week-03", 
             "text": "", 
             "title": "Week 03"
         }, 
         {
-            "location": "/week03/readme/#topics", 
+            "location": "/week03/#topics", 
             "text": "Forms   Inputs", 
             "title": "Topics"
         }, 
         {
-            "location": "/week03/readme/#reading", 
+            "location": "/week03/#reading", 
             "text": "none", 
             "title": "Reading"
         }, 
         {
-            "location": "/week03/readme/#resources", 
+            "location": "/week03/#resources", 
             "text": "Styling HTML forms  The Apple Store's Checkout Form Redesign  Don't Make Me Think: How We Really Use the Web", 
             "title": "Resources"
         }, 
         {
-            "location": "/week03/readme/#lectures", 
+            "location": "/week03/#lectures", 
             "text": "Don't Make Me Think  Forms", 
             "title": "Lectures"
         }, 
         {
-            "location": "/week03/readme/#lessons", 
+            "location": "/week03/#lessons", 
             "text": "Forms  slider.zip  Skill Tester", 
             "title": "Lessons"
         }, 
         {
-            "location": "/week04/readme/", 
+            "location": "/week04/", 
             "text": "Week 04\n\n\nTopics\n\n\n\n\nCSS Animations\n\n\n\n\nReading\n\n\n\n\nUX Sketching\n\n\n\n\nResources\n\n\n\n\nCSS Filters\n\n\nCSS Transform\n\n\nCSS Animation Pocket Guide\n\n\nThings We Left on the Moon\n\n\n\n\nLessons\n\n\n\n\nCSS Animation\n\n\nWheel of Fortune\n / \nfinished code\n\n\nRocket", 
             "title": "Week 4"
         }, 
         {
-            "location": "/week04/readme/#week-04", 
+            "location": "/week04/#week-04", 
             "text": "", 
             "title": "Week 04"
         }, 
         {
-            "location": "/week04/readme/#topics", 
+            "location": "/week04/#topics", 
             "text": "CSS Animations", 
             "title": "Topics"
         }, 
         {
-            "location": "/week04/readme/#reading", 
+            "location": "/week04/#reading", 
             "text": "UX Sketching", 
             "title": "Reading"
         }, 
         {
-            "location": "/week04/readme/#resources", 
+            "location": "/week04/#resources", 
             "text": "CSS Filters  CSS Transform  CSS Animation Pocket Guide  Things We Left on the Moon", 
             "title": "Resources"
         }, 
         {
-            "location": "/week04/readme/#lessons", 
+            "location": "/week04/#lessons", 
             "text": "CSS Animation  Wheel of Fortune  /  finished code  Rocket", 
             "title": "Lessons"
         }, 
         {
-            "location": "/week05/readme/", 
+            "location": "/week05/", 
             "text": "Week 05\n\n\nTopics\n\n\n\n\nGeolocation\n\n\nGoogle Maps\n\n\n\n\nReading\n\n\n\n\nnone\n\n\n\n\nResources\n\n\n\n\nGoogle Maps API Key\n\n\nGoogle Maps API JS Documentation\n\n\nPublic APIs\n\n\n\n\nLessons\n\n\n\n\nGeolocation", 
             "title": "Week 5"
         }, 
         {
-            "location": "/week05/readme/#week-05", 
+            "location": "/week05/#week-05", 
             "text": "", 
             "title": "Week 05"
         }, 
         {
-            "location": "/week05/readme/#topics", 
+            "location": "/week05/#topics", 
             "text": "Geolocation  Google Maps", 
             "title": "Topics"
         }, 
         {
-            "location": "/week05/readme/#reading", 
+            "location": "/week05/#reading", 
             "text": "none", 
             "title": "Reading"
         }, 
         {
-            "location": "/week05/readme/#resources", 
+            "location": "/week05/#resources", 
             "text": "Google Maps API Key  Google Maps API JS Documentation  Public APIs", 
             "title": "Resources"
         }, 
         {
-            "location": "/week05/readme/#lessons", 
+            "location": "/week05/#lessons", 
             "text": "Geolocation", 
             "title": "Lessons"
         }, 
