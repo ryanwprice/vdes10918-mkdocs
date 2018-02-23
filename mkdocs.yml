@@ -4,13 +4,13 @@ extra_css:
     - css/style.css
 
 pages:
-    - Home: readme.md
+    - Home: index.md
     - Lessons:
-        - Week 1: week01/readme.md
-        - Week 2: week02/readme.md
-        - Week 3: week03/readme.md
-        - Week 4: week04/readme.md
-        - Week 5: week05/readme.md
+        - Week 1: week01/index.md
+        - Week 2: week02/index.md
+        - Week 3: week03/index.md
+        - Week 4: week04/index.md
+        - Week 5: week05/index.md
     - Projects: 
         - Project 1: projects/project01/readme.md
         - Project 2: projects/project02/readme.md
