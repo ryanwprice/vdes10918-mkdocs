@@ -1,77 +1,77 @@
 {
     "docs": [
         {
-            "location": "/readme/", 
+            "location": "/", 
             "text": "VDES10918 \u2013 INTERACTION DESIGN 2: NAVIGATION\n\n\nOverview\n\n\nThis course gives you the opportunity to build dynamic web pages that contain data that changes. As a result we will be using Javascript to update the page and control CSS to give the user updates. We will start simply but these will become web Apps, then eventually we will progress to creating an App for a mobile device, using the same knowledge of HTML, CSS and JS. HTML is the content, CSS is the design and JS becomes the behaviour or controls the page interactions. \n\n\nInstructor: Ryan Price  \n\nEmail: \nryan.price1@sheridancollege.ca\n  \n\nOffice hours: upon appointment\n\n\nCommunication\n\n\nOffice Hours\n\n\nMy office time is split between B122D \n J119. An appointment is necessary.\n\n\nEmail\n\n\nMake sure that you check your Sheridan email account regularly, as I may send any course updates and information to this account. You can setup your account to forward to your personal email account, so you never miss any relevant information. You should also setup your Slate email to forward to your Sheridan email as well.\n\n\nI can be reached at \nryan.price1@sheridancollege.ca\n and will reply within 24 hours except on the weekends.\n\n\nEmailing me the night before an assignment is due, will not likely get the desired response time, so stay on top of work to ensure your questions do not go unanswered.\n\n\nSoftware \n Hardware\n\n\nWe will be using \nBrackets\n to write HTML, CSS and JS.\n\n\nLater in the term you will be using, Vue.JS a front end framework for easy update and manipulation of content on the page.\n\n\nYou will also learn the simple basics of \nAdobe XD\n, \nInVision\n and \nOrigami\n as prototyping software.\n\n\nA smartphone of some kind (iOS, Android, etc.) will be needed to test the final project.\n\n\nReading List\n\n\nRequired Textbook\n\n\nMarquis, M. (2016). \nJavascript for Web Designers\n. A Book Apart.\n\nUse \nHESCRP-JS\n to save 15% on the book.\n\n\nRecommended Reading\n\n\nDuckett, J. (2014). JavaScript and JQuery: Interactive Front-End Web Development. Wiley Publishing.\n\n\nKrug, S. (2006), Don't make me think! : a common sense approach to Web usability. New Riders.\n\n\nNorman, D. A. (2013). The design of everyday things: Revised and expanded edition. Basic books.\n\n\nLupton, E. (Ed.). (2014). Beautiful Users: Designing for People. Chronicle Books.\n\n\nLupton, E. (2014). Type on Screen: A Critical Guide for Designers, Writers, Developers, and Students. Chronicle Books.\n\n\nBentley, Frank and Barrett, Peter, Building Mobile Experiences. MIT, 2012\n\n\nMorville, Peter, and Rosenfeld, Louis, Information Architecture for the World Wide Web. O'Reilly, 2006\n\n\nBuxton, Bill, Sketching User Experiences: Getting the Design Right and the Right Design. Morgan Kaufmann, 2007.\n\n\nJones,M. \n Marsden,G., 2006. Mobile Interaction Design. Wiley\n\n\nZwick,C. Schmitz,B. \n Kuhl,K., 2005. Designing for small screens. Ava Publishing\n\n\nRahn Frederick, G. \n Lal, R. (2009) Beginning Smartphone Web Development. New York, Apress.\n\n\nGalitz, W. O. (2007) The Essential Guide to User Interface Design. Indianapolis, Wiley Publishing\n\n\nNielsen, J. (2000), Designing web usability. New Riders \n\n\nSchedule\n\n\nPlease note\n: This schedule may change with advance notice from your instructor.\n\n\nWeek 1\n \u2013 22nd January \n- Introduction and project briefing\n- Workflow overview (roles of HTML, CSS, JS).\n- What is Javascript?\n- Variables\n- If statements\n- Date objects\n\n\nWeek 2\n \u2013 29th January \n- Conducting an Ethnographic study of mobile users\n- Affordances \n Usability\n- Accessing \n Adding content to the DOM\n- Random \n Math\n\n\nWeek 3\n \u2013 5th February\n- UI Sketching\n- Forms \n Inputs\n\n\nWeek 4\n \u2013 12th February\n- Conventions\n- CSS Animations\n\n\nWeek 5\n \u2013 19th February\n- Project 1 presentation\n- Geolocation \n\n\nREADING WEEK\n \u2013 26th February\n\n\nWeek 6\n \u2013 5th March\n- Prototyping \n- APIs \n JSON\n\n\nWeek 7\n \u2013 12th March\n- Don\u2019t make me think \n- Project support for hand in next week\n- Debugging for Mobile\n\n\nWeek 8\n \u2013 19th March\n- Project 2 presentation\n- Group preparation for final project\n- Introduction to VueJS \n\n\nWeek 9\n \u2013 26th March\n- Paper prototyping\n- Introduction to Adobe XD for Prototyping\n\n\nWeek 10\n \u2013 2nd April\n- Rocket Surgery Made Easy\n- Introduction to InVision and Origami as alternatives to XD\n- VueJS \u2013 lists\n\n\nWeek 11\n \u2013 9th April\n- UI Design Patterns\n- VueJS \u2013 dynamically change CSS\n\n\nWeek 12\n \u2013 16th April\n- VueJS Dynamic - image gallery\n- Project work\n\n\nWeek 13\n \u2013 23rd April\n- Final Project presentations\n\n\nGrading\n\n\nAll assignments are to be completed for the start of class on the date assigned unless noted otherwise.\n\n\n\n\nAssignment 1 (25%) \n\n\nSimple Dynamic Data web page\n\n\nDue WEEK 5 (Week of Feb 19)\n\n\n\n\n\n\nAssignment 2 (25%) \n\n\nInteractive Game \n\n\nDue WEEK 8 (Week of Mar 19)\n\n\n\n\n\n\nAssignment 3 (50%) \n\n\nWeb App prototype\n\n\nDue WEEK 11 (Week of Apr 9) \n 13 (Week of Apr 23)\n\n\n\n\n\n\n\n\nLate Work\n\n\nAll projects and exercises must be submitted at the beginning of the class on the date specified in the assignment brief unless otherwise stated by your professor. An assignment submitted within one week (5 business days) after the due date, will receive a 10% grade reduction. \nAssignments more than one week late will not be graded\n unless a prior arrangement has been made with your professor.\n\n\nIf there is a valid reason for the late assignment, the student must email their professor as soon as possible, and no later than the date the assignment is due to indicate it will be late. If the reason is deemed to be valid, there will be no late penalty.\n\n\nThere will be no resubmission of work unless, under exceptional circumstances, this has been agreed to or suggested by the professor.\n\n\nPLEASE NOTE\n - Computer hardware/software failure does not constitute a valid reason for a late assignment, please make regular back-ups of your work to ensure timely delivery of your project. Extra storage on \nDropbox\n is available using this link.\n\n\nAcademic Honesty\n\n\nThe principle of academic honesty requires that all work submitted for evaluation and course credit be the original, unassisted work of the student. Cheating or plagiarism including borrowing, copying, purchasing or collaborating on work, except for group projects arranged and approved by the faculty member, or otherwise submitting work that is not the student\u2019s own violates this principle and will not be tolerated. Instances of academic dishonesty, including assisting another student to cheat, will be penalized as detailed in the Student Handbook.\n\n\nStudents who have any questions regarding whether or not specific circumstances involve a breach of academic honesty are advised to discuss them with the faculty member prior to submitting the assignment in question. For more info, see Sheridan's \nAcademic Integrity\n page.\n\n\nLearning Outcomes\n\n\nTo achieve the critical performance, students will have demonstrated the ability to:\n\n\n\n\nResearch and analyze interactive objects to identify elements and relationships.\n\n\nApply visual design principles to interactive problem solving.\n\n\nApply the terminology and principles of information architecture in interactive problem solving.\n\n\nProduce process documents such as diagrams, briefs and storyboards.\n\n\nIntegrate project concepts into functioning interactions.\n\n\nApply design principles such as sequence and priority to solving interactive problems.\n\n\nIntegrate technical parameters and platforms into the development of design solutions.\n\n\nExhibit professional behaviours including:\n\n\nopenness to peer critiques\n\n\nacceptance of differing viewpoints\n\n\nwillingness to work collaboratively\n\n\ncommitment to meeting project due dates\n\n\nresponsibility for self direction\n\n\ncommitment to the responsible use of reference materials.", 
             "title": "Home"
         }, 
         {
-            "location": "/readme/#vdes10918-interaction-design-2-navigation", 
+            "location": "/#vdes10918-interaction-design-2-navigation", 
             "text": "", 
             "title": "VDES10918 \u2013 INTERACTION DESIGN 2: NAVIGATION"
         }, 
         {
-            "location": "/readme/#overview", 
+            "location": "/#overview", 
             "text": "This course gives you the opportunity to build dynamic web pages that contain data that changes. As a result we will be using Javascript to update the page and control CSS to give the user updates. We will start simply but these will become web Apps, then eventually we will progress to creating an App for a mobile device, using the same knowledge of HTML, CSS and JS. HTML is the content, CSS is the design and JS becomes the behaviour or controls the page interactions.   Instructor: Ryan Price   \nEmail:  ryan.price1@sheridancollege.ca    \nOffice hours: upon appointment", 
             "title": "Overview"
         }, 
         {
-            "location": "/readme/#communication", 
+            "location": "/#communication", 
             "text": "", 
             "title": "Communication"
         }, 
         {
-            "location": "/readme/#office-hours", 
+            "location": "/#office-hours", 
             "text": "My office time is split between B122D   J119. An appointment is necessary.", 
             "title": "Office Hours"
         }, 
         {
-            "location": "/readme/#email", 
+            "location": "/#email", 
             "text": "Make sure that you check your Sheridan email account regularly, as I may send any course updates and information to this account. You can setup your account to forward to your personal email account, so you never miss any relevant information. You should also setup your Slate email to forward to your Sheridan email as well.  I can be reached at  ryan.price1@sheridancollege.ca  and will reply within 24 hours except on the weekends.  Emailing me the night before an assignment is due, will not likely get the desired response time, so stay on top of work to ensure your questions do not go unanswered.", 
             "title": "Email"
         }, 
         {
-            "location": "/readme/#software-hardware", 
+            "location": "/#software-hardware", 
             "text": "We will be using  Brackets  to write HTML, CSS and JS.  Later in the term you will be using, Vue.JS a front end framework for easy update and manipulation of content on the page.  You will also learn the simple basics of  Adobe XD ,  InVision  and  Origami  as prototyping software.  A smartphone of some kind (iOS, Android, etc.) will be needed to test the final project.", 
             "title": "Software &amp; Hardware"
         }, 
         {
-            "location": "/readme/#reading-list", 
+            "location": "/#reading-list", 
             "text": "", 
             "title": "Reading List"
         }, 
         {
-            "location": "/readme/#required-textbook", 
+            "location": "/#required-textbook", 
             "text": "Marquis, M. (2016).  Javascript for Web Designers . A Book Apart. Use  HESCRP-JS  to save 15% on the book.", 
             "title": "Required Textbook"
         }, 
         {
-            "location": "/readme/#recommended-reading", 
+            "location": "/#recommended-reading", 
             "text": "Duckett, J. (2014). JavaScript and JQuery: Interactive Front-End Web Development. Wiley Publishing.  Krug, S. (2006), Don't make me think! : a common sense approach to Web usability. New Riders.  Norman, D. A. (2013). The design of everyday things: Revised and expanded edition. Basic books.  Lupton, E. (Ed.). (2014). Beautiful Users: Designing for People. Chronicle Books.  Lupton, E. (2014). Type on Screen: A Critical Guide for Designers, Writers, Developers, and Students. Chronicle Books.  Bentley, Frank and Barrett, Peter, Building Mobile Experiences. MIT, 2012  Morville, Peter, and Rosenfeld, Louis, Information Architecture for the World Wide Web. O'Reilly, 2006  Buxton, Bill, Sketching User Experiences: Getting the Design Right and the Right Design. Morgan Kaufmann, 2007.  Jones,M.   Marsden,G., 2006. Mobile Interaction Design. Wiley  Zwick,C. Schmitz,B.   Kuhl,K., 2005. Designing for small screens. Ava Publishing  Rahn Frederick, G.   Lal, R. (2009) Beginning Smartphone Web Development. New York, Apress.  Galitz, W. O. (2007) The Essential Guide to User Interface Design. Indianapolis, Wiley Publishing  Nielsen, J. (2000), Designing web usability. New Riders", 
             "title": "Recommended Reading"
         }, 
         {
-            "location": "/readme/#schedule", 
+            "location": "/#schedule", 
             "text": "Please note : This schedule may change with advance notice from your instructor.  Week 1  \u2013 22nd January \n- Introduction and project briefing\n- Workflow overview (roles of HTML, CSS, JS).\n- What is Javascript?\n- Variables\n- If statements\n- Date objects  Week 2  \u2013 29th January \n- Conducting an Ethnographic study of mobile users\n- Affordances   Usability\n- Accessing   Adding content to the DOM\n- Random   Math  Week 3  \u2013 5th February\n- UI Sketching\n- Forms   Inputs  Week 4  \u2013 12th February\n- Conventions\n- CSS Animations  Week 5  \u2013 19th February\n- Project 1 presentation\n- Geolocation   READING WEEK  \u2013 26th February  Week 6  \u2013 5th March\n- Prototyping \n- APIs   JSON  Week 7  \u2013 12th March\n- Don\u2019t make me think \n- Project support for hand in next week\n- Debugging for Mobile  Week 8  \u2013 19th March\n- Project 2 presentation\n- Group preparation for final project\n- Introduction to VueJS   Week 9  \u2013 26th March\n- Paper prototyping\n- Introduction to Adobe XD for Prototyping  Week 10  \u2013 2nd April\n- Rocket Surgery Made Easy\n- Introduction to InVision and Origami as alternatives to XD\n- VueJS \u2013 lists  Week 11  \u2013 9th April\n- UI Design Patterns\n- VueJS \u2013 dynamically change CSS  Week 12  \u2013 16th April\n- VueJS Dynamic - image gallery\n- Project work  Week 13  \u2013 23rd April\n- Final Project presentations", 
             "title": "Schedule"
         }, 
         {
-            "location": "/readme/#grading", 
+            "location": "/#grading", 
             "text": "All assignments are to be completed for the start of class on the date assigned unless noted otherwise.   Assignment 1 (25%)   Simple Dynamic Data web page  Due WEEK 5 (Week of Feb 19)    Assignment 2 (25%)   Interactive Game   Due WEEK 8 (Week of Mar 19)    Assignment 3 (50%)   Web App prototype  Due WEEK 11 (Week of Apr 9)   13 (Week of Apr 23)", 
             "title": "Grading"
         }, 
         {
-            "location": "/readme/#late-work", 
+            "location": "/#late-work", 
             "text": "All projects and exercises must be submitted at the beginning of the class on the date specified in the assignment brief unless otherwise stated by your professor. An assignment submitted within one week (5 business days) after the due date, will receive a 10% grade reduction.  Assignments more than one week late will not be graded  unless a prior arrangement has been made with your professor.  If there is a valid reason for the late assignment, the student must email their professor as soon as possible, and no later than the date the assignment is due to indicate it will be late. If the reason is deemed to be valid, there will be no late penalty.  There will be no resubmission of work unless, under exceptional circumstances, this has been agreed to or suggested by the professor.  PLEASE NOTE  - Computer hardware/software failure does not constitute a valid reason for a late assignment, please make regular back-ups of your work to ensure timely delivery of your project. Extra storage on  Dropbox  is available using this link.", 
             "title": "Late Work"
         }, 
         {
-            "location": "/readme/#academic-honesty", 
+            "location": "/#academic-honesty", 
             "text": "The principle of academic honesty requires that all work submitted for evaluation and course credit be the original, unassisted work of the student. Cheating or plagiarism including borrowing, copying, purchasing or collaborating on work, except for group projects arranged and approved by the faculty member, or otherwise submitting work that is not the student\u2019s own violates this principle and will not be tolerated. Instances of academic dishonesty, including assisting another student to cheat, will be penalized as detailed in the Student Handbook.  Students who have any questions regarding whether or not specific circumstances involve a breach of academic honesty are advised to discuss them with the faculty member prior to submitting the assignment in question. For more info, see Sheridan's  Academic Integrity  page.", 
             "title": "Academic Honesty"
         }, 
         {
-            "location": "/readme/#learning-outcomes", 
+            "location": "/#learning-outcomes", 
             "text": "To achieve the critical performance, students will have demonstrated the ability to:   Research and analyze interactive objects to identify elements and relationships.  Apply visual design principles to interactive problem solving.  Apply the terminology and principles of information architecture in interactive problem solving.  Produce process documents such as diagrams, briefs and storyboards.  Integrate project concepts into functioning interactions.  Apply design principles such as sequence and priority to solving interactive problems.  Integrate technical parameters and platforms into the development of design solutions.  Exhibit professional behaviours including:  openness to peer critiques  acceptance of differing viewpoints  willingness to work collaboratively  commitment to meeting project due dates  responsibility for self direction  commitment to the responsible use of reference materials.", 
             "title": "Learning Outcomes"
         }, 
