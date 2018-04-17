@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>/</loc>
+     <lastmod>2018-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/week01/</loc>
+     <lastmod>2018-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/week02/</loc>
+     <lastmod>2018-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/week03/</loc>
+     <lastmod>2018-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/week04/</loc>
+     <lastmod>2018-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/week05/</loc>
+     <lastmod>2018-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/projects/project01/readme/</loc>
+     <lastmod>2018-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/projects/project02/readme/</loc>
+     <lastmod>2018-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>/firebird/readme/</loc>
+     <lastmod>2018-02-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
